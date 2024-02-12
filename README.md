@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @BARIS-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm BARIŞ H. 👋
 
-<!---
-BARIS-dev/BARIS-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate web developer with experience in various technologies. Here are my skills:
+
+- **Frontend:**
+  - React
+  - JavaScript
+  - HTML
+  - CSS / SCSS
+
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MongoDB
+  - MySQL
+
+- **Mobile:**
+  - React Native
+
+I'm also currently exploring the world of **Python**, gradually learning and diving into it. 🐍
