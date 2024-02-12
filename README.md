@@ -18,3 +18,8 @@ I'm a passionate web developer with experience in various technologies. Here are
   - React Native
 
 I'm also currently exploring the world of **Python**, gradually learning and diving into it. 🐍
+
+- **Languages:**
+  - Turkish
+  - German
+  - English
