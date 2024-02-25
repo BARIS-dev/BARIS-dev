@@ -1,7 +1,7 @@
 # Hi, I'm BARIŞ H. 👋
 
 I'm a passionate web developer with experience in various technologies.
-
+###### (You can hover over the icons to see their names.)
 
 ## **Frontend:**
   [<img width="80" height="80" src="https://img.icons8.com/fluency/96/nextjs.png" alt="Next.js Icon"/>](## "Next.js")
