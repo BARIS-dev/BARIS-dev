@@ -1,9 +1,15 @@
 # Hi, I'm BARIŞ 👋
+  
 ![BARIŞ' GitHub stats](https://github-readme-stats.vercel.app/api?username=BARIS-dev&show_icons=true&theme=radical)
 
 I'm a passionate web developer with experience in various technologies. <br>
 ###### (You can hover over the icons to see their names.)
 
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=BARIS-dev&color=red&style=flat">
+  <img>
+  </p>
+  
 ## **Frontend:**
   [<img width="80" height="80" src="https://img.icons8.com/fluency/96/nextjs.png" alt="Next.js Icon"/>](## "Next.js")
 [<img width="80" height="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>](## "React")
@@ -54,3 +60,4 @@ I'm a passionate web developer with experience in various technologies. <br>
 
 I'm also currently exploring the world of **Python**, gradually learning and diving into it. 🐍 <br>
   [<img width="80" height="80" src="https://img.icons8.com/color/96/python--v1.png" alt="Python Logo"/>](## "Python")
+
