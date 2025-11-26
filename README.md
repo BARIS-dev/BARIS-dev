@@ -29,6 +29,7 @@ I'm a passionate web developer with experience in various technologies. <br>
 
 ## **Mobile:**
    [<img width="80" height="80" src="https://img.icons8.com/color/96/react-native.png" alt="react-native"/>](## "React-native")
+   [<img width="80" height="80" src="https://img.icons8.com/color/96/flutter.png" alt="flutter"/>](## "Flutter")
 
 ## **Tools:**
    [<img width="80" height="80" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code Icon"/>](## "Visual Studio Code")
