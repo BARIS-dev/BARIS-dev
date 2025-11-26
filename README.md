@@ -12,7 +12,8 @@ I'm a passionate web developer with experience in various technologies. <br>
   
 ## **Frontend:**
   [<img width="80" height="80" src="https://img.icons8.com/fluency/96/nextjs.png" alt="Next.js Icon"/>](## "Next.js")
-[<img width="80" height="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>](## "React")
+[<img width="80" height="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>](## "React")
+[<img width="80" height="80" src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png](https://img.icons8.com/fluency/96/vite.png)" alt="Vite"/>](## "Vite")
   [<img width="80" height="80" src="https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https%3A%2F%2F2105299320-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-LBKK1y7h_XWAtuRJG9X-4037718589%252Ficon%252FzSCYXfXdUPvs7AL9g6NO%252FElectron_Software_Framework_Logo.svg%2520(1).png%3Falt%3Dmedia%26token%3D325f86f6-2e2a-4d0f-a8c7-b28d4eea56a4" alt="Electron.js Icon"/>](## "Electron.js")
   [<img width="80" height="80" src="https://img.icons8.com/color/96/angularjs.png" alt="AngularJS Logo"/>](## "Angular")
   [<img width="80" height="80" src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript Icon"/>](## "JavaScript")
@@ -28,8 +29,8 @@ I'm a passionate web developer with experience in various technologies. <br>
   [<img width="80" height="80" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>](## "MySQL")
 
 ## **Mobile:**
-   [<img width="80" height="80" src="https://img.icons8.com/color/96/react-native.png" alt="react-native"/>](## "React-native")
-   [<img width="80" height="80" src="https://img.icons8.com/color/96/flutter.png" alt="flutter"/>](## "Flutter")
+   [<img width="80" height="80" src="https://img.icons8.com/color/96/react-native.png" alt="React-Native"/>](## "React-Native")
+   [<img width="80" height="80" src="https://img.icons8.com/color/96/flutter.png" alt="Flutter"/>](## "Flutter")
 
 ## **Tools:**
    [<img width="80" height="80" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code Icon"/>](## "Visual Studio Code")
