@@ -1,63 +1,118 @@
-# Hi, I'm BARIŞ 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1200&lines=Hi+there%2C+I'm+Bar%C4%B1%C5%9F+%F0%9F%91%8B;Full-Stack+Web+%E2%80%A2+Mobile+%E2%80%A2+Game+Development+%E2%80%A2+Currently+deep+in+Unreal+Engine+5+%26+C%2B%2B+%F0%9F%8E%AE;Crafting+beautiful+web%2Fapps+and+high-performance+games)](https://git.io/typing-svg)
 
-I'm a passionate web developer with experience in various technologies. <br>
-###### (You can hover over the icons to see their names.)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BARIS-dev&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/BARIS-dev?tab=stars"><img src="https://img.shields.io/github/stars/BARIS-dev?style=flat-square&color=yellow" alt="Total Stars"/></a>
+  <a href="https://github.com/BARIS-dev"><img src="https://img.shields.io/github/followers/BARIS-dev?style=flat-square&color=green" alt="GitHub followers"/></a>
+</p>
 
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=BARIS-dev&color=red&style=flat">
-  <img>
-  </p>
-  
-## **Frontend:**
-  [<img width="80" height="80" src="https://img.icons8.com/fluency/96/nextjs.png" alt="Next.js Icon"/>](## "Next.js")
-   [<img width="80" height="80" src="https://img.icons8.com/fluency/96/vite.png" alt="Vite Icon"/>](## "Vite")
- [<img width="80" height="80" src="https://img.icons8.com/color/96/react-native.png" alt="React"/>](## "React")
-  [<img width="80" height="80" src="https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https%3A%2F%2F2105299320-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-LBKK1y7h_XWAtuRJG9X-4037718589%252Ficon%252FzSCYXfXdUPvs7AL9g6NO%252FElectron_Software_Framework_Logo.svg%2520(1).png%3Falt%3Dmedia%26token%3D325f86f6-2e2a-4d0f-a8c7-b28d4eea56a4" alt="Electron.js Icon"/>](## "Electron.js")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/angularjs.png" alt="AngularJS Logo"/>](## "Angular")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript Icon"/>](## "JavaScript")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML5 Icon"/>](## "HTML5")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>](## "CSS3 Icon")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/sass-avatar.png" alt="Sass Icon"/>](## "Sass/SCSS")
+<p align="center">
+  <strong>Full-Stack Web • Mobile • Game Development • Currently deep in Unreal Engine 5 & C++ 🎮</strong><br/>
+  Crafting beautiful web/apps and high-performance games
+</p>
 
-## **Backend:**
-  [<img width="80" height="80" src="https://img.icons8.com/fluency/96/node-js.png" alt="Node.js Icon"/>](## "Node.js")
-  [<img width="80" height="80" src="https://img.icons8.com/ios/100/B70000/express-js.png" alt="Express.js" />](## "Express.js")
-  [<img width="80" height="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>](## "MongoDB")
-[<img width="80" height="80" src="https://img.icons8.com/color/96/mongoose.png" alt="mongoose"/>](## "Mongoose")
-  [<img width="80" height="80" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>](## "MySQL")
+<div align="center">
+  <a href="https://linkedin.com/in/baris-hakan-akin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"/>
+  </a>
+ <!-- <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a> -->
+  <a href="mailto:contact@barishakan.dev">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-## **Mobile:**
-   [<img width="80" height="80" src="https://img.icons8.com/color/96/react-native.png" alt="React-Native"/>](## "React-Native")
-   [<img width="80" height="80" src="https://img.icons8.com/color/96/flutter.png" alt="Flutter"/>](## "Flutter")
+---
 
-## **Tools:**
-   [<img width="80" height="80" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code Icon"/>](## "Visual Studio Code")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/visual-studio--v2.png" alt="Visual Studio Icon"/>](## "Visual Studio")
-   [<img width="80" height="80" src="https://img.icons8.com/color/96/android-studio--v3.png" alt="Android Studio Icon"/>](## "Android Studio")
-   [<img width="80" height="80" src="https://img.icons8.com/color/96/xcode.png" alt="Xcode"/>](## "Xcode")
-  [<img width="80" height="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman Icon"/>](## "Postman")
-  [<img width="80" height="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>](## "MongoDB Compass")
-  [<img width="80" height="80" src="https://www.beekeeperstudio.io/assets/img/logos/bk-logo-yellow-icon-c964a711bdf65aea45c437211468e08896ad7e5dd5fb4e7f9136e8e62868d5c4dcd9bfa63b94ca38914685d3da8d732ea0d73e39c161b01c6a9ee298de4ea374.svg"/>](## "Beekeeper Studio")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/000000/notion.png" alt="Notion Icon"/>](## "Notion")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/adobe-photoshop--v1.png" alt="Photoshop Icon"/>](## "Photoshop")
-  [<img width="80" height="80"  src="https://img.icons8.com/color/96/adobe-illustrator--v1.png" alt="Illustrator Icon"/>](## "Illustrator")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/figma--v1.png" alt="Figma Icon"/>](## "Figma")
-  [<img width="80" height="80" src="https://img.icons8.com/fluency/96/github.png" alt="GitHub Icon"/>](## "GitHub")
-  ## **Operating Systems:**
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/windows-11.png" alt="windows-11"/>](## "Windows")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/mac-os--v1.png" alt="mac-os--v1"/>](## "macOS")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/ubuntu--v1.png" alt="Ubuntu Icon"/>](## "Ubuntu")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/android-os.png" alt="Android Icon"/>](## "Android OS")
-    [<img width="80" height="80" src="https://img.icons8.com/color/96/mac-os--v1.png" alt="mac-os--v1"/>](## "iOS")
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/mac-os--v1.png" alt="mac-os--v1"/>](## "iPadOS")
+### 🛠️ Tech Stack
 
-## **Languages:**
-  [<img width="80" height="80" src="https://files.svgcdn.io/emojione/flag-for-turkey.svg" alt="Türkiye Icon"/>](## "Turkish")
-  [<img width="80" height="80" src="https://files.svgcdn.io/emojione/flag-for-germany.svg" alt="Germany Icon"/>](## "German")
-  [<img width="80" height="80" src="https://files.svgcdn.io/emojione/flag-england.svg" alt="England Icon"/>](## "English")
+#### Frontend & Frameworks
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /><br>Angular</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" /><br>Electron</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /><br>Sass/SCSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
+  </tr>
+</table>
 
+#### Backend & Mobile & Game Dev
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br>Flutter</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" /><br>React Native</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" /><br>Unreal Engine</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+  </tr>
+</table>
 
+#### Tools & Others
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" /><br>Visual Studio</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" /><br>Android Studio</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" /><br>Xcode</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" /><br>Photoshop</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=illustrator" width="48" height="48" alt="Illustrator" /><br>Illustrator</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /><br>Notion</td>
+  </tr>
+</table>
 
-I'm also currently exploring the world of **Python**, gradually learning and diving into it. 🐍 <br>
-  [<img width="80" height="80" src="https://img.icons8.com/color/96/python--v1.png" alt="Python Logo"/>](## "Python")
+### 🔥 GitHub Stats & Activity
 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=BARIS-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BARIS-dev&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="40%" />
+</div>
+
+### 🌟 Featured Projects
+
+<p>Coming soon...</p>
+<!-- Füge hier deine Projekte ein -->
+
+### 🌍 Languages I Speak
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Türkçe-Native-red?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deutsch-Native-orange?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🎮 Currently Exploring
+
+**Unreal Engine 5 & C++** – Gameplay Programming, Blueprints, Multiplayer, Optimization & building immersive worlds...
+
+---
+
+<p align="center">
+  <i>"Good code is its own best documentation."</i> – Steve McConnell
+</p>
+
+<p align="center">
+  <a href="https://github.com/BARIS-dev">
+    <img src="https://img.shields.io/badge/Let's%20create%20something%20epic!-000?style=for-the-badge&logo=github&logoColor=white" alt="Let's create something epic!"/>
+  </a>
+</p>
